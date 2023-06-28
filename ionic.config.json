@@ -1,0 +1,8 @@
+{
+  "name": "Practica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "4a0ce780"
+}
